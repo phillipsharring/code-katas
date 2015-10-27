@@ -1,0 +1,4 @@
+a live cell with fewer than 2 neighbors dies
+a live cell with 2 to 3 neighbors lives
+a live cell with more than 3 neighbors dies
+a dead cell with exactly 3 neighbors is birthed
