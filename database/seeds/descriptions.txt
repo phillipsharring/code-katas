@@ -1,0 +1,63 @@
+Develops new business by analyzing account potential; initiating, developing, and closing sales; recommending new applications and sales strategies.
+Identifies development potential in accounts by studying current business; interviewing key customer personnel and company personnel who have worked with customer; identifying and evaluating additional needs; analyzing opportunities.
+Initiates sales process by building relationships; qualifying potential; scheduling appointments.
+Develops sales by making initial presentation; explaining product and service enhancements and additions; introducing new products and services.
+Develops new applications by preparing specifications; conferring with product engineering.
+Closes sales by overcoming objections; preparing contracts.
+Contributes information to sales strategies by evaluating current product results; identifying needs to be filled; monitoring competitive products; analyzing and relaying customer reactions.
+Updates job knowledge by participating in educational opportunities; reading professional publications; maintaining personal networks; participating in professional organizations.
+Enhances department and organization reputation by accepting ownership for accomplishing new and different requests; exploring opportunities to add value to job accomplishments.
+ClientBase, Establishes Partnerships/Alliances, Prospecting Skills, Meeting Sales Goals, Foster Teamwork, Planning, Building Relationships, People Skills, Initiative, Customer Focus, Emphasizing Excellence
+Generates revenue by developing market potential through forecasting, lead generation, qualification, and closing sales; recommending new products and services.
+Identifies market potential by qualifying accounts.
+Initiates sales process by scheduling appointments; making initial presentation; understanding account requirements.
+Closes sales by building rapport with potential account; explaining product and service capabilities; overcoming objections; preparing contracts.
+Expands sales in existing accounts by introducing new products and services; developing new applications.
+Contributes information to market strategy by monitoring competitive products and reactions from accounts.
+Recommends new products and services by evaluating current product results; identifying needs to be filled.
+Updates job knowledge by participating in educational opportunities.
+Accomplishes marketing and organization mission by completing related results as needed.
+Presentation Skills, Internal Communications, Informing Others, Verbal Communication, Closing Skills, Motivation for Sales, Sales Planning, Territory Management, Prospecting Skills, Persistence, Meeting Sales Goals.
+Serves customers by completing enrollments and conversion mailings; responding to requests; resolving complaints; maintaining quality service.
+Prepares work to be processed by gathering, sorting, organizing, and recording data, information, and documents.
+Completes enrollments by analyzing and auditing documents, tapes, and transmissions; researching and resolving processing problems.
+Completes conversion mailings by coordinating requirements; developing plans.
+Provides information by collecting, analyzing, and summarizing information; responding to requests.
+Resolves complaints by investigating issues and composing responses; referring non-standard complains and potential lawsuits to legal or government affairs departments.
+Maintains quality service by monitoring standards; advising supervisor of potential problems.
+Prepares reports by collecting and analyzing information
+Updates job knowledge by participating in educational opportunities.
+Enhances department and organization reputation by accepting ownership for accomplishing new and different requests; exploring opportunities to add value to job accomplishments.
+Reporting Skills, Thoroughness, Organization, Attention to Detail, Research Skills, Problem Solving, Customer Focus, Quality Focus, Proactive, Dependability, General Math Skills
+Provides financial information to management by researching and analyzing accounting data; preparing reports.
+Prepares asset, liability, and capital account entries by compiling and analyzing account information.
+Documents financial transactions by entering account information.
+Recommends financial actions by analyzing accounting options.
+Summarizes current financial status by collecting information; preparing balance sheet, profit and loss statement, and other reports.
+Substantiates financial transactions by auditing documents.
+Maintains accounting controls by preparing and recommending policies and procedures.
+Guides accounting clerical staff by coordinating activities and answering questions.
+Reconciles financial discrepancies by collecting and analyzing account information.
+Secures financial information by completing data base backups.
+Maintains financial security by following internal controls.
+Prepares payments by verifying documentation, and requesting disbursements.
+Answers accounting procedure questions by researching and interpreting accounting policy and regulations.
+Complies with federal, state, and local financial legal requirements by studying existing and new legislation, enforcing adherence to requirements, and advising management on needed actions.
+Prepares special financial reports by collecting, analyzing, and summarizing account information and trends.
+Maintains customer confidence and protects operations by keeping financial information confidential.
+Maintains professional and technical knowledge by attending educational workshops; reviewing professional publications; establishing personal networks; participating in professional societies.
+Accomplishes the result by performing the duty.
+Contributes to team effort by accomplishing related results as needed.
+Accounting, Corporate Finance, Reporting Skills, Attention to Detail, Deadline-Oriented, Reporting Research Results, SFAS Rules, Confidentiality, Time Management, Data Entry Management, General Math Skills
+Creates user information solutions by developing, implementing, and maintaining Internet/intranet applications; leading team of developers.
+Defines site objectives by analyzing user requirements; envisioning system features and functionality.
+Designs and develops user interfaces to Internet/intranet applications by setting expectations and features priorities throughout development life cycle; determining design methodologies and tool sets; completing programming using languages and software products; designing and conducting tests.
+Recommends system solutions by comparing advantages and disadvantages of custom development and purchase alternatives.
+Integrates applications by designing database architecture and server scripting; studying and establishing connectivity with network systems, search engines, and information servers.
+Creates multimedia applications by using authoring tools.
+Completes applications development by coordinating requirements, schedules, and activities; contributing to team meetings; troubleshooting development and production problems across multiple environments and operating platforms.
+Supports users by developing documentation and assistance tools.
+Updates job knowledge by researching new internet/intranet technologies and software products; participating in educational opportunities; reading professional publications; maintaining personal networks; participating in professional organizations.
+Enhances organization reputation by accepting ownership for accomplishing new and different requests; exploring opportunities to add value to job accomplishments.
+Supports and develops web application developers by providing advice, coaching and educational opportunities.
+Verbal Communication, Web User Interface Design, Web Programming Skills, Software Requirements, Software Architecture, Software Development Fundamentals, Object-Oriented Design (OOD), Multimedia Content Development, Software Debugging, Technical Leadership, Written Communication
